@@ -19,5 +19,6 @@ import "fmt"
 // func main() → প্রোগ্রামের শুরু পয়েন্ট (entry point)।
 func main() {
 	fmt.Println("hello world")
-	fmt.Printf("hello world")
+	fmt.Printf("hello world\n")
+	fmt.Println("Name:", "Habib", "Age:", 25)
 }
